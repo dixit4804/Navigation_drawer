@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navihome"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/navidashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:title="DashBoard"/>
+    <item
+        android:id="@+id/naviprofile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"/>
+
+</menu>
+
+
